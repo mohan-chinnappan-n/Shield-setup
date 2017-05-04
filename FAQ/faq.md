@@ -25,9 +25,9 @@ Metadata API - ***describe*** - provides **encrypted** flag value for the encryp
 
 ### Options for Verifying Encryption:
 
-<ol>At the request of an organizations admin,  ***Tier 3 security agents*** can run a backend process to provide confirmation details of encrypted fields based on server logs which can be provided to users. Please allow two business days for these requests to process due to complexity of the request.
+1. At the request of an organizations admin,  ***Tier 3 security agents*** can run a backend process to provide confirmation details of encrypted fields based on server logs which can be provided to users. Please allow two business days for these requests to process due to complexity of the request.
 
-<ol>     Organization admins can follow the steps below to use **tenant key masking** to verify field encryption at a record level:
+2. Organization admins can follow the steps below to use **tenant key masking** to verify field encryption at a record level:
 
 
       a.     Export **current tenant secret** used to encrypt current data in report and store it in a safe place.
