@@ -57,6 +57,7 @@ If Joe uses REST API for example, to access Joe will be denied access to this fi
 
 ![joe cannot access account.phone](img/rest-api-user-cannot-access_account_phone.png)
 
-But other user, whose FLS allow **read** on these fields: **Account.Fax** and **Account.Phone** can access these two fields:
+But other user, whose FLS allows **read** on these fields: **Account.Fax** and **Account.Phone** can access these two fields:
 
-![Account object encrypted fields:](img/account-encrypted-fields.png)
+
+![describe showing the encrypted flag](img/describe-showing-encrypted-flag.png)
