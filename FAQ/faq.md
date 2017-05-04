@@ -64,7 +64,28 @@ But other user, whose FLS allows **read** on these fields: **Account.Fax** and *
 
 
 
-3.Can you provide technical details about Platform Encryption?
+3.Do I have to backup tenant secrets?
+
+YES!!!
+
+Tenant secrets are not like passwords.
+
+Unlike passwords, you can’t reset a tenant secret. Salesforce can’t help with deleted, destroyed, or misplaced tenant secrets. Always back up tenant secrets!
+
+4.Is the encrypted fields data encrypted at rest?
+
+YES!
+
+You should use field-level access controls to limit who can access this sensitive data as shown above in question number: 2
+
+
+4.About Unnecessarily encrypting?
+
+Unnecessarily encrypting data can slow down performance and affect users day-to-day activities.  Based on your regulatory requirements define the kinds of customer data that require extra security and apply Shield Platform Encryption only to those areas.
+
+
+
+5.Can you provide technical details about Platform Encryption?
 ----------------------------------------------------------------
 
  Here is the video answering this question:
