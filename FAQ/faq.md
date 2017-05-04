@@ -101,3 +101,40 @@ Unnecessarily encrypting data can slow down performance and affect users day-to-
  Here is the video answering this question:
 
 [![Salesforce Shield Platform Encryption Whiteboard"](https://img.youtube.com/vi/RMUl0fF7x1E/0.jpg)](https://www.yout‌​ube.com/watch?v=RMUl0fF7x1E "Salesforce Shield Platform Encryption Whiteboard")
+
+
+### Links for curious minds:
+
+
+What’s the Difference Between Classic Encryption and Shield Platform Encryption?
+https://help.salesforce.com/articleView?err=1&id=security_pe_comparison_table.htm&siteLang=en_US&type=0
+
+How Shield Platform Encryption Works:
+https://help.salesforce.com/articleView?id=security_pe_concepts.htm&type=0&language=en_US
+
+Tradeoffs and Limitations of Shield Platform Encryption:
+https://help.salesforce.com/articleView?err=1&id=security_pe_considerations.htm&siteLang=en_US&type=0
+
+Encrypt Fields:
+https://help.salesforce.com/articleView?err=1&id=security_pe_enable_standard_fields.htm&siteLang=en_US&type=0&language=en_US
+
+
+Salesforce Shield Platform Encryption Whiteboard:
+https://www.youtube.com/watch?v=RMUl0fF7x1E
+
+
+View Encrypted Data Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17
+Knowledge Article Number
+
+https://help.salesforce.com/articleView?id=000247422&type=1
+
+
+View Encrypted Data” Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17:
+https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_ved_decouple_announcement.htm
+
+
+Platform Encryption Best Practices
+https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/security_pe_best_practices.htm
+
+SALESFORCE PLATFORM ENCRYPTION
+https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_platform_encryption_tipsheet.pdf
