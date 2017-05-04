@@ -67,4 +67,6 @@ But other user, whose FLS allows **read** on these fields: **Account.Fax** and *
 3. Can you provide technical details about Platform Encryption?
 ----------------------------------------------------------------
 
-[![Everything Is AWESOME](//img.youtube.com/vi/RMUl0fF7x1E/0.jpg)](//www.yout‌​ube.com/watch?v=RMUl0fF7x1E "Salesforce Shield Platform Encryption Whiteboard")
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
+[![Salesforce Shield Platform Encryption Whiteboard"](https://img.youtube.com/vi/RMUl0fF7x1E/0.jpg)](https://www.yout‌​ube.com/watch?v=RMUl0fF7x1E "Salesforce Shield Platform Encryption Whiteboard")
