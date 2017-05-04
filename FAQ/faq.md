@@ -114,7 +114,7 @@ Field values are automatically encrypted only in records **created or updated af
 ### Links for curious minds:
 
 
-What’s the Difference Between Classic Encryption and Shield Platform Encryption?
+What’s the Difference Between Classic Encryption and Shield Platform Encryption?: 
 https://help.salesforce.com/articleView?err=1&id=security_pe_comparison_table.htm&siteLang=en_US&type=0
 
 How Shield Platform Encryption Works:
@@ -131,8 +131,8 @@ Salesforce Shield Platform Encryption Whiteboard:
 https://www.youtube.com/watch?v=RMUl0fF7x1E
 
 
-View Encrypted Data Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17
-Knowledge Article Number
+View Encrypted Data Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17:
+
 
 https://help.salesforce.com/articleView?id=000247422&type=1
 
@@ -141,15 +141,15 @@ View Encrypted Data” Permission Not Needed with Shield Platform Encryption Beg
 https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_ved_decouple_announcement.htm
 
 
-Platform Encryption Best Practices
+Platform Encryption Best Practices:
 https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/security_pe_best_practices.htm
 
-SALESFORCE PLATFORM ENCRYPTION
+SALESFORCE PLATFORM ENCRYPTION:
 https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_platform_encryption_tipsheet.pdf
 
-Training: Trailhead: Shield Platform Encryption
+Training: Trailhead: Shield Platform Encryption:
 https://github.com/mohan-chinnappan-n/Shield-setup/blob/master/FAQ/faq.md
 
 
-Tighten Your Security with Salesforce Shield Platform Encryption
+Tighten Your Security with Salesforce Shield Platform Encryption:
 https://www.youtube.com/watch?v=sZ9SvYIij4w
