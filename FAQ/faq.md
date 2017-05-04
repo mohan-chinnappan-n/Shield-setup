@@ -20,6 +20,48 @@ Metadata API - ***describe*** - provides **encrypted** flag value for the encryp
 ![describe showing the Account Object](img/account-describe-metadata.png)
 
 
+
+
+
+### Options for Verifying Encryption:
+
+
+1.     At the request of an organizations admin,  ***Tier 3 security agents*** can run a backend process to provide confirmation details of encrypted fields based on server logs which can be provided to users. Please allow two business days for these requests to process due to complexity of the request.
+
+
+
+2.     Organization admins can follow the steps below to use **tenant key masking** to verify field encryption at a record level:
+
+
+      a.     Export **current tenant secret** used to encrypt current data in report and store it in a safe place.
+
+      b.     Generate a **new tenant secret**.
+
+      c.     Destroy the initial key used to encrypt data.
+
+      d.     With the new key active navigate to any record where fields are encrypted and the data will show ????? meaning the data is encrypted.
+
+
+Note: Once the admin or customer has reviewed the data masked with ????, the old secret used to encrypt the data can be imported back into the org and the new key destroyed as it was not used to encrypt any data.
+
+
+#### How about Attachments encryption?
+
+In the event that an admin would like to verify encryption on files and attachments the query below can be ran in Developer Console:
+
+ ```sql
+     SELECT ContentType, Id, IsEncrypted FROM Attachments WHERE IsEncrypted = false/true
+```
+
+The query above will run against attachments and show all content where IsEncrypted = true or false. The attachments option can be replaced with files and content type removed to determine if files are encrypted or decrypted based on the IsEncrypted flag.
+
+For additional information related to platform encryption masking please review our Salesforce article entitled:
+
+ What Does My Encrypted Data Look Like?:
+  https://help.salesforce.com/articleView?id=security_pe_masking.htm&type=0
+
+
+
 <hr/>
 
 2.Knowledge Article: 000247422 says: View Encrypted Data Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17
