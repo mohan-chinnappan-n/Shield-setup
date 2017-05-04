@@ -10,7 +10,7 @@ Metadata API - ***describe*** - provides **encrypted** flag value for the encryp
 
 ![Account object encrypted fields:](img/account-encrypted-fields.png)
 
-#### Describe on Account Object showing encrypted fields:
+#### Describe on Account Object showing **encrypted flag** for the  encrypted fields:
 
 ![describe showing the encrypted flag](img/describe-showing-encrypted-flag.png)
 
