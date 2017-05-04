@@ -4,7 +4,7 @@
  1.How do I know a Field in an Object is encrypted at rest?
  --------------------------------------------------------
 
-Metadata API - ***describe*** - provides **encrypted** flag for this encrypted field as **true** as shown below:
+Metadata API - ***describe*** - provides **encrypted** flag value for the encrypted fields as **true** as shown below:
 
 #### Account object encrypted fields:
 
