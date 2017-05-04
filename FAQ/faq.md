@@ -33,4 +33,18 @@ Can you explain this with an example?
 ![Winter17 release-notes](img/win17-rel-notes-viewEncryptedData-perm-NN.png)
 
 
-[View Encrypted Data” Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_ved_decouple_announcement.htm)
+[Reference: View Encrypted Data” Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_ved_decouple_announcement.htm)
+
+
+
+Let us take an example: In our org we have a user: ** joe simple**
+
+![user joe simple](img/user-joe-simple.png)
+
+
+Joe can see the encrypted field: Account.Fax but Joe can't see the encrypted field Account.Phone as per FLS for his profile:
+
+
+![joe account.fax](img/user-joesimple-can-seee-account_fax.png)
+
+![joe account.phone](user-joesimple-cannot-see-account_phone.png)
