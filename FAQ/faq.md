@@ -29,4 +29,6 @@ Can you explain this with an example?
 ![KB-FLS](img/KB-FLS.png)
 [Reference to this Knowledge Article](https://help.salesforce.com/articleView?id=000247422&type=1)
 
+
+![Winter17 release-notes](img/win17-rel-notes-viewEncryptedData-perm-NN.png)
 [View Encrypted Data” Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17(https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_ved_decouple_announcement.htm)
