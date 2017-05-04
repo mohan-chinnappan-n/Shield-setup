@@ -103,6 +103,9 @@ Unnecessarily encrypting data can slow down performance and affect users day-to-
 [![Salesforce Shield Platform Encryption Whiteboard"](https://img.youtube.com/vi/RMUl0fF7x1E/0.jpg)](https://www.yout‌​ube.com/watch?v=RMUl0fF7x1E "Salesforce Shield Platform Encryption Whiteboard")
 
 
+<hr/>
+<hr/>
+
 ### Links for curious minds:
 
 
