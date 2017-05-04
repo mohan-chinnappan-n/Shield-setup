@@ -103,6 +103,10 @@ Field values are automatically encrypted only in records **created or updated af
 7.Can you provide technical details about Platform Encryption?
 ----------------------------------------------------------------
 
+Platform Encryption Flow:
+
+![Platform Encryption Flow](img/platform-en.png)
+
  Here is the video answering this question. Click on the view the video:
 
 [![Salesforce Shield Platform Encryption Whiteboard"](https://img.youtube.com/vi/RMUl0fF7x1E/0.jpg)](https://www.yout‌​ube.com/watch?v=RMUl0fF7x1E "Salesforce Shield Platform Encryption Whiteboard")
@@ -114,7 +118,7 @@ Field values are automatically encrypted only in records **created or updated af
 ### Links for curious minds:
 
 
-What’s the Difference Between Classic Encryption and Shield Platform Encryption?: 
+What’s the Difference Between Classic Encryption and Shield Platform Encryption?:
 https://help.salesforce.com/articleView?err=1&id=security_pe_comparison_table.htm&siteLang=en_US&type=0
 
 How Shield Platform Encryption Works:
