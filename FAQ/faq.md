@@ -31,4 +31,6 @@ Can you explain this with an example?
 
 
 ![Winter17 release-notes](img/win17-rel-notes-viewEncryptedData-perm-NN.png)
-[View Encrypted Data” Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17(https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_ved_decouple_announcement.htm)
+
+
+[View Encrypted Data” Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17](https://releasenotes.docs.salesforce.com/en-us/winter17/release-notes/rn_security_pe_ved_decouple_announcement.htm)
