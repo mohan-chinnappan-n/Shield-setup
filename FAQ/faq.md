@@ -1,4 +1,4 @@
-# FAQ - Shield -  Platform Encryption
+# FAQ - Shield Platform Encryption
 
 
  1.How do I know a Field in an Object is encrypted at rest?
@@ -141,3 +141,6 @@ https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securit
 
 SALESFORCE PLATFORM ENCRYPTION
 https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_platform_encryption_tipsheet.pdf
+
+Training: Trailhead: Shield Platform Encryption
+https://github.com/mohan-chinnappan-n/Shield-setup/blob/master/FAQ/faq.md
