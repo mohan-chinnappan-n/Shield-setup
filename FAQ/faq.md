@@ -61,3 +61,10 @@ But other user, whose FLS allows **read** on these fields: **Account.Fax** and *
 
 
 ![describe showing the encrypted flag](img/describe-showing-encrypted-flag.png)
+
+
+
+3. Can you provide technical details about Platform Encryption?
+----------------------------------------------------------------
+
+[![Everything Is AWESOME](//img.youtube.com/vi/RMUl0fF7x1E/0.jpg)](//www.yout‌​ube.com/watch?v=RMUl0fF7x1E "Salesforce Shield Platform Encryption Whiteboard")
