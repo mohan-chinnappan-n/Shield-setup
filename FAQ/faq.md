@@ -1,4 +1,4 @@
-# FAQ - Shield
+# FAQ - Shield -  Platform Encryption
 
 
  1.How do I know a Field in an Object is encrypted at rest?
