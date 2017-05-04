@@ -54,7 +54,7 @@ Joe can see the **encrypted** field: **Account.Fax** but Joe **can't** see the *
 
 
 
-If Joe uses REST API for example, to access Joe will be denied access to this field **Account.Fax** as shown below:
+If Joe uses REST API for example, to access Account Object, Joe will be denied access to the field: **Account.Phone** as shown below, while Joe can access **Account.Fax**
 
 ![joe cannot access account.phone](img/rest-api-user-cannot-access_account_phone.png)
 
