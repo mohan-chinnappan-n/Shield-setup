@@ -47,4 +47,4 @@ Joe can see the encrypted field: Account.Fax but Joe can't see the encrypted fie
 
 ![joe account.fax](img/user-joesimple-can-seee-account_fax.png)
 
-![joe account.phone](user-joesimple-cannot-see-account_phone.png)
+![joe account.phone](img/user-joesimple-cannot-see-account_phone.png)
