@@ -20,6 +20,7 @@ Metadata API - ***describe*** - provides **encrypted** flag for this encrypted f
 ![describe showing the Account Object](img/account-describe-metadata.png)
 
 
+<hr/>
 
 2.Knowledge Article: 000247422 says: View Encrypted Data Permission Not Needed with Shield Platform Encryption Beginning Spring ‘17
 ---------------------------------------------------------------------------------------------------------------------------------
@@ -63,6 +64,9 @@ But other user, whose FLS allows **read** on these fields: **Account.Fax** and *
 ![describe showing the encrypted flag](img/describe-showing-encrypted-flag.png)
 
 
+<hr/>
+
+
 
 3.Do I have to backup tenant secrets?
 
@@ -72,20 +76,23 @@ Tenant secrets are not like passwords.
 
 Unlike passwords, you can’t reset a tenant secret. Salesforce can’t help with deleted, destroyed, or misplaced tenant secrets. Always back up tenant secrets!
 
+<hr/>
+
 4.Is the encrypted fields data encrypted at rest?
 
 YES!
 
 You should use field-level access controls to limit who can access this sensitive data as shown above in question number: 2
 
+<hr/>
 
-4.About Unnecessarily encrypting?
+5.About Unnecessarily encrypting?
 
 Unnecessarily encrypting data can slow down performance and affect users day-to-day activities.  Based on your regulatory requirements define the kinds of customer data that require extra security and apply Shield Platform Encryption only to those areas.
 
 
 
-5.Can you provide technical details about Platform Encryption?
+6.Can you provide technical details about Platform Encryption?
 ----------------------------------------------------------------
 
  Here is the video answering this question:
