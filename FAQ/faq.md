@@ -94,11 +94,16 @@ You should use field-level access controls to limit who can access this sensitiv
 Unnecessarily encrypting data can slow down performance and affect users day-to-day activities.  Based on your regulatory requirements define the kinds of customer data that require extra security and apply Shield Platform Encryption only to those areas.
 
 
+6.About automatic encryption?
+---------------------------------
 
-6.Can you provide technical details about Platform Encryption?
+Field values are automatically encrypted only in records **created or updated after you’ve enabled encryption**. Salesforce recommends **updating existing records** to ensure that their field values are encrypted. For example, if you encrypt the Description field on the Case object, use the Data Loader to update all case records. Contact Salesforce if you need help with this.
+
+
+7.Can you provide technical details about Platform Encryption?
 ----------------------------------------------------------------
 
- Here is the video answering this question:
+ Here is the video answering this question. Click on the view the video:
 
 [![Salesforce Shield Platform Encryption Whiteboard"](https://img.youtube.com/vi/RMUl0fF7x1E/0.jpg)](https://www.yout‌​ube.com/watch?v=RMUl0fF7x1E "Salesforce Shield Platform Encryption Whiteboard")
 
