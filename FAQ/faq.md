@@ -69,6 +69,7 @@ But other user, whose FLS allows **read** on these fields: **Account.Fax** and *
 
 
 3.Do I have to backup tenant secrets?
+--------------------------------------------------------
 
 YES!!!
 
@@ -79,6 +80,7 @@ Unlike passwords, you can’t reset a tenant secret. Salesforce can’t help wit
 <hr/>
 
 4.Is the encrypted fields data encrypted at rest?
+--------------------------------------------------------
 
 YES!
 
@@ -87,6 +89,7 @@ You should use field-level access controls to limit who can access this sensitiv
 <hr/>
 
 5.About Unnecessarily encrypting?
+--------------------------------------------------------
 
 Unnecessarily encrypting data can slow down performance and affect users day-to-day activities.  Based on your regulatory requirements define the kinds of customer data that require extra security and apply Shield Platform Encryption only to those areas.
 
