@@ -64,7 +64,7 @@ But other user, whose FLS allows **read** on these fields: **Account.Fax** and *
 
 
 
-3. Can you provide technical details about Platform Encryption?
+3.Can you provide technical details about Platform Encryption?
 ----------------------------------------------------------------
 
  Here is the video answering this question:
