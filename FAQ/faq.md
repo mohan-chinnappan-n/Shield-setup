@@ -42,9 +42,11 @@ Let us take an example: In our org we have a user: ** joe simple**
 ![user joe simple](img/user-joe-simple.png)
 
 
-Joe can see the encrypted field: Account.Fax but Joe can't see the encrypted field Account.Phone as per FLS for his profile:
+Joe can see the **encrypted** field: **Account.Fax** but Joe **can't** see the **encrypted** field **Account.Phone** as per FLS for his profile:
 
-
+#### Account.Fax:
 ![joe account.fax](img/user-joesimple-can-seee-account_fax.png)
 
+
+#### Account.Phone:
 ![joe account.phone](img/user-joesimple-cannot-see-account_phone.png)
