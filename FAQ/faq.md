@@ -88,7 +88,7 @@ You should use field-level access controls to limit who can access this sensitiv
 
 <hr/>
 
-5.About Unnecessarily encrypting?
+5.About guideline for selecting fields for encrypting?
 --------------------------------------------------------
 
 Unnecessarily encrypting data can slow down performance and affect users day-to-day activities.  Based on your regulatory requirements define the kinds of customer data that require extra security and apply Shield Platform Encryption only to those areas.
