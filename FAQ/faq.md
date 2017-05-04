@@ -37,7 +37,7 @@ Can you explain this with an example?
 
 
 
-Let us take an example: In our org we have a user: ** joe simple**
+Let us take an example: In our org, we have an user: **joe simple**
 
 ![user joe simple](img/user-joe-simple.png)
 
@@ -50,3 +50,9 @@ Joe can see the **encrypted** field: **Account.Fax** but Joe **can't** see the *
 
 #### Account.Phone:
 ![joe account.phone](img/user-joesimple-cannot-see-account_phone.png)
+
+
+
+If Joe uses REST API for example, to access Joe will be denied access to this field **Account.Fax** as shown below:
+
+![joe cannot access account.phone](rest-api-user-cannot-access_account_phone.png)
