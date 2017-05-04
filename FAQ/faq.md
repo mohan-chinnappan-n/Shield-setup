@@ -149,3 +149,7 @@ https://resources.docs.salesforce.com/206/latest/en-us/sfdc/pdf/salesforce_platf
 
 Training: Trailhead: Shield Platform Encryption
 https://github.com/mohan-chinnappan-n/Shield-setup/blob/master/FAQ/faq.md
+
+
+Tighten Your Security with Salesforce Shield Platform Encryption
+https://www.youtube.com/watch?v=sZ9SvYIij4w
