@@ -56,3 +56,7 @@ Joe can see the **encrypted** field: **Account.Fax** but Joe **can't** see the *
 If Joe uses REST API for example, to access Joe will be denied access to this field **Account.Fax** as shown below:
 
 ![joe cannot access account.phone](img/rest-api-user-cannot-access_account_phone.png)
+
+But other user, whose FLS allow **read** on these fields: **Account.Fax** and **Account.Phone** can access these two fields:
+
+![Account object encrypted fields:](img/account-encrypted-fields.png)
