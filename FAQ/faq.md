@@ -150,6 +150,17 @@ Field values are automatically encrypted only in records **created or updated af
 
 [![Salesforce Shield Platform Encryption Whiteboard"](https://img.youtube.com/vi/RMUl0fF7x1E/0.jpg)](https://www.yout‌​ube.com/watch?v=RMUl0fF7x1E "Salesforce Shield Platform Encryption Whiteboard")
 
+8. About Sandbox Refresh: How Does Shield Platform Encryption Work In a Sandbox?
+
+Refreshing a sandbox from a production organization creates an exact copy of the production organization. If Shield Platform Encryption is enabled on the production organization, all encryption settings are copied, including tenant secrets created in production.
+
+Once a sandbox is refreshed, tenant secret changes are confined to your current organization. This means that when you rotate or destroy a tenant secret on sandbox, it doesn’t affect the production organization.
+
+As a best practice, rotate tenant secrets on sandboxes after a refresh. Rotation ensures that production and sandbox use different tenant secrets. Destroying tenant secrets on a sandbox renders encrypted data unusable in cases of partial or full copies.
+[Ref](https://help.salesforce.com/articleView?id=security_pe_sandboxes.htm&type=5)
+
+
+
 
 <hr/>
 <hr/>
