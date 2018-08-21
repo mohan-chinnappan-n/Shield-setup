@@ -214,3 +214,13 @@ https://github.com/mohan-chinnappan-n/Shield-setup/blob/master/FAQ/faq.md
 
 Tighten Your Security with Salesforce Shield Platform Encryption:
 https://www.youtube.com/watch?v=sZ9SvYIij4w
+
+<hr/>
+
+Probabilistic encryption:
+https://en.wikipedia.org/wiki/Probabilistic_encryption
+
+
+Deterministic encryption:
+https://en.wikipedia.org/wiki/Deterministic_encryption
+
