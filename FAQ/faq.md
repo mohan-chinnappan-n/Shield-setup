@@ -171,7 +171,7 @@ As a best practice, rotate tenant secrets on sandboxes after a refresh. Rotation
 
 ### Links for curious minds:
 
-[Rotate Your Encryption Tenant Secrets](https://help.salesforce.com/articleView?id=security_pe_rotate_keys.htm&type=5)
+[Rotate Your Encryption Tenant Secrets - based on your organization’s security policies](https://help.salesforce.com/articleView?id=security_pe_rotate_keys.htm&type=5)
 
 
 
