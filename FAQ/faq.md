@@ -171,6 +171,9 @@ As a best practice, rotate tenant secrets on sandboxes after a refresh. Rotation
 
 ### Links for curious minds:
 
+[Rotate Your Encryption Tenant Secrets](https://help.salesforce.com/articleView?id=security_pe_rotate_keys.htm&type=5)
+
+
 
 What’s the Difference Between Classic Encryption and Shield Platform Encryption?:
 https://help.salesforce.com/articleView?err=1&id=security_pe_comparison_table.htm&siteLang=en_US&type=0
